@@ -145,7 +145,7 @@ export const profileContent: ProfileContent = {
       category: "web",
       technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
       github: "https://github.com/h1ntz0/portfolio",
-      demo: "https://portfolio-saya.com",
+      demo: "https://h1ntz0.github.io/portfolio",
     },
   ],
   learning: [

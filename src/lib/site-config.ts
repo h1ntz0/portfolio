@@ -3,7 +3,7 @@ export const siteConfig = {
   title: "Software Engineer & QA Automation Engineer",
   description:
     "Portfolio, learning journey, projects, and software development activity of a Software Engineer & QA Automation Engineer.",
-  url: "https://portfolio-saya.com",
+  url: "https://h1ntz0.github.io/portfolio",
   email: "arofizain12@gmail.com",
   githubUsername: "h1ntz0",
   links: {
