@@ -1,15 +1,15 @@
 import type { ProfileContent } from "@/types/content";
 
 export const profileContent: ProfileContent = {
-  name: "GitHub Profile Website",
-  role: "Software Engineer & QA Automation Engineer",
-  headline: "Building software with quality in mind",
+  name: "Zein",
+  role: "Backend Developer",
+  headline: "Building tools that live in the terminal",
   status:
-    "Currently exploring AI-assisted development, improving test automation, and contributing to open source.",
+    "Currently learning Go, building Telegram bots, and improving my Python skills.",
   bio: [
-    "I'm a software engineer with a strong focus on quality. I care deeply about building software that works — reliable, testable, and maintainable — not just code that compiles.",
-    "My journey started with manual QA, which gave me a sharp eye for edge cases and user-facing problems. I then moved into automation and development, combining engineering discipline with the mindset of a quality advocate.",
-    "I believe great software comes from the intersection of clean architecture, automated testing, and continuous learning. This site documents that journey: the projects I build, the things I learn, and the standards I hold myself to.",
+    "I'm a Backend Developer who loves building CLI tools, Telegram bots, and clean APIs. If it can be done from the terminal, I'll probably build it there.",
+    "My journey started with Python and automation, then expanded into Go, REST API design, and database work. I believe small, consistent projects teach more than grand plans.",
+    "This site documents what I build and learn — from Todo-cli to telegram-sticker-bot, plus everything in between.",
   ],
   quote:
     "“Quality is never an accident; it is always the result of intelligent effort.” — John Ruskin",
